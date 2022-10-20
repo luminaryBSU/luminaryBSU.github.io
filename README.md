@@ -1,2 +1,6 @@
 # luminaryBSU.github.io
-Technical Web Site for the Boise State Luminary
+
+Keith and Catherin Stein Luminary
+Boise State University
+
+Technology Pages
